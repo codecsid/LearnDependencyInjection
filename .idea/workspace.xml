@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84df58fa-57cf-4fe3-ac8d-38b7c3fbb11c" name="Default Changelist" comment="" />
+    <list default="true" id="84df58fa-57cf-4fe3-ac8d-38b7c3fbb11c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/containers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency_injector-3.15.6-cp37-cp37m-win_amd64.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YnZRZPvw3oueluYuzcYa2EDarI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +33,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jon\PycharmProjects\LearnDependencyInjection" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -59,26 +83,30 @@
       <screen x="0" y="0" width="3840" height="2104" />
     </state>
     <state x="1362" y="673" width="1115" height="831" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583580520117" />
-    <state x="1590" y="720" key="FileChooserDialogImpl" timestamp="1583580514392">
+    <state x="1474" y="809" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583586596053">
       <screen x="0" y="0" width="3840" height="2104" />
     </state>
-    <state x="1590" y="720" key="FileChooserDialogImpl/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583580514392" />
-    <state width="3806" height="596" key="GridCell.Tab.0.bottom" timestamp="1583584838984">
+    <state x="1474" y="809" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583586596053" />
+    <state x="1590" y="720" key="FileChooserDialogImpl" timestamp="1583586039018">
       <screen x="0" y="0" width="3840" height="2104" />
     </state>
-    <state width="3806" height="596" key="GridCell.Tab.0.bottom/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583584838984" />
-    <state width="3806" height="596" key="GridCell.Tab.0.center" timestamp="1583584838984">
+    <state x="1590" y="720" key="FileChooserDialogImpl/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583586039018" />
+    <state width="3806" height="596" key="GridCell.Tab.0.bottom" timestamp="1583610043496">
       <screen x="0" y="0" width="3840" height="2104" />
     </state>
-    <state width="3806" height="596" key="GridCell.Tab.0.center/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583584838984" />
-    <state width="3806" height="596" key="GridCell.Tab.0.left" timestamp="1583584838984">
+    <state width="3806" height="596" key="GridCell.Tab.0.bottom/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583610043496" />
+    <state width="3806" height="596" key="GridCell.Tab.0.center" timestamp="1583610043496">
       <screen x="0" y="0" width="3840" height="2104" />
     </state>
-    <state width="3806" height="596" key="GridCell.Tab.0.left/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583584838984" />
-    <state width="3806" height="596" key="GridCell.Tab.0.right" timestamp="1583584838984">
+    <state width="3806" height="596" key="GridCell.Tab.0.center/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583610043496" />
+    <state width="3806" height="596" key="GridCell.Tab.0.left" timestamp="1583610043496">
       <screen x="0" y="0" width="3840" height="2104" />
     </state>
-    <state width="3806" height="596" key="GridCell.Tab.0.right/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583584838984" />
+    <state width="3806" height="596" key="GridCell.Tab.0.left/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583610043496" />
+    <state width="3806" height="596" key="GridCell.Tab.0.right" timestamp="1583610043496">
+      <screen x="0" y="0" width="3840" height="2104" />
+    </state>
+    <state width="3806" height="596" key="GridCell.Tab.0.right/0.0.3840.2104/-1366.1283.1366.768@0.0.3840.2104" timestamp="1583610043496" />
     <state x="1178" y="499" key="SettingsEditor" timestamp="1583580460194">
       <screen x="0" y="0" width="3840" height="2104" />
     </state>
